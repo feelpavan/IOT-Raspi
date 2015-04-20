@@ -8,3 +8,10 @@ The Raspberry Pi sends out an Tweet whenever an Input Latch(Button) occurs, Conc
 
 
 Input  ========> Raspberry-PI (IOT, node-red) =========> Twitter (tweet)
+
+Application Link - Running on Bluemix 
+http://pavan-iot-raspi.mybluemix.net/red/#
+
+Tweets sent by IOT-App
+https://twitter.com/feelpavan/status/590169132940726273
+https://twitter.com/feelpavan/status/590169132940726273
